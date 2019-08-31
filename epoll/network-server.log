@@ -1,0 +1,12 @@
+2019-08-31 14:27:34,740 - network-server - DEBUG - accept connection from 127.0.0.1, 38012, fd = 6
+2019-08-31 14:27:34,740 - network-server - DEBUG - 6 receive The Number is 1
+2019-08-31 14:27:35,742 - network-server - DEBUG - 6 receive The Number is 2
+2019-08-31 14:27:36,744 - network-server - DEBUG - 6 receive The Number is 3
+2019-08-31 14:27:37,745 - network-server - DEBUG - 6 receive The Number is 4
+2019-08-31 14:27:38,747 - network-server - DEBUG - 6 receive The Number is 5
+2019-08-31 14:27:39,749 - network-server - DEBUG - 6 receive The Number is 6
+2019-08-31 14:27:40,750 - network-server - DEBUG - 6 receive The Number is 7
+2019-08-31 14:27:41,751 - network-server - DEBUG - 6 receive The Number is 8
+2019-08-31 14:27:42,753 - network-server - DEBUG - 6 receive The Number is 9
+2019-08-31 14:27:43,755 - network-server - DEBUG - 6 receive The Number is 10
+2019-08-31 14:27:44,757 - network-server - DEBUG - 127.0.0.1, 38012 closed
